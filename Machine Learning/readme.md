@@ -17,3 +17,5 @@ Simple Linear Regression (SLR) diagnostics across univariate predictors.
 Multiple Linear Regression (MLR) model selection and variance evaluation.
 
 Penalized Regression & PyTorch Neural Regression Diagnostics (comparing OLS, Ridge, LASSO, ElasticNet via Cross-Validation and custom PyTorch optimization).
+
+### Assignment 2: Binary Classification
