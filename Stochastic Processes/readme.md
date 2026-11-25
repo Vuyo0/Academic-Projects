@@ -1,1 +1,3 @@
+#Executive Summary
 
+This study evaluates the stochastic properties of a commodity price time series ($Y_t$) using econometric diagnostics and formal hypothesis testing. Determining whether an economic series exhibits a stochastic trend (difference-stationary process) or a deterministic trend (trend-stationary process) is crucial for forecasting, macroeconomic modeling, and policy evaluation. Using the Augmented Dickey-Fuller (ADF) framework via the urca package in R, we conduct a sequential testing procedure ($\tau_3$, $\phi_3$, and $\phi_2$) to establish the underlying data-generating process (DGP).
