@@ -1,5 +1,7 @@
 ## Executive Summary
 
+### Assignment 1 : Regression Models
+
 Predicting public bicycle sharing demand is vital for urban mobility optimization, fleet rebalancing, and municipal resource planning. This study investigates the Seoul Bike Sharing Demand dataset to model hourly rental counts using environmental, seasonal, and temporal predictors.
 
 We systematically execute six statistical learning tasks:
